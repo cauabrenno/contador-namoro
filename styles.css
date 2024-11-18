@@ -22,7 +22,7 @@ body {
     margin-top: 50px center;
     padding: 20px; /* Espaçamento interno para dar respiro */
     max-width: 400px; /* Define uma largura máxima */
-    border: 3px solid #8dbce5; /* Adiciona uma borda com cor */
+    border: 3px solid #e87cc9; /* Adiciona uma borda com cor */
     border-radius: 10px; /* Arredonda os cantos da borda */
     background-color: #ffffff; /* Fundo branco dentro da borda */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.6); /* Sombra sutil para destacar */
