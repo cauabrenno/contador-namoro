@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    background-image: url("img/teste1.jpeg");
+    background-size: cover; /* Faz com que a imagem cubra toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    color: #333;
+    margin: 15px;
+    padding: 0;
+    height: 100vh; /* Altura total da janela */
+    display: flex; /* Ativa Flexbox */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+
+.container {
+    margin-top: 50px center;
+    padding: 20px; /* Espaçamento interno para dar respiro */
+    max-width: 400px; /* Define uma largura máxima */
+    border: 3px solid #8dbce5; /* Adiciona uma borda com cor */
+    border-radius: 10px; /* Arredonda os cantos da borda */
+    background-color: #ffffff; /* Fundo branco dentro da borda */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.6); /* Sombra sutil para destacar */
+}
+
+h1 {
+    margin-bottom: 10px;
+    color: ##192a1e; /* Cor do título */
+}
+
+#contador {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: #161f39;
+    font-weight: bold;
+}
+
