@@ -1,5 +1,5 @@
 // Data do início do namoro (formato: ano, mês-1, dia)
-const dataInicio = new Date(2023, 1, 1); // Exemplo: 15 de outubro de 2023
+const dataInicio = new Date(2022, 12, 10); // Exemplo: 15 de outubro de 2023
 
 function atualizarContador() {
     const agora = new Date();
